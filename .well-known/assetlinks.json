@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.twitchauto",
+    "sha256_cert_fingerprints": [
+      "C3:33:DE:05:9C:E6:D6:89:09:30:21:62:43:F4:4A:49:C9:ED:DE:9D:04:ED:27:5A:99:72:CF:5C:79:A3:D9:7F"
+    ]
+  }
+}]
